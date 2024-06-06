@@ -23,3 +23,7 @@ As a cybersecurity professional it is imperaitive to learn Powershell. Some reas
 
 How easy/hard is it to manipulate PowerShell, or any shell? Is it possible to mimick a shell to retrieve information remotely?
    
+
+
+
+https://techthoughts.info/ps1-should-you-learn-powershell/
